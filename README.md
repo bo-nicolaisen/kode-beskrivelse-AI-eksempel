@@ -1,1 +1,2 @@
 # webboilerplate
+$${\color{red}Red}$$

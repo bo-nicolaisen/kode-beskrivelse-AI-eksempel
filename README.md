@@ -1,2 +1,2 @@
-# webboilerplate
-$${\color{red}Red}$$
+
+$${\color{red}# webboilerplate}$$
